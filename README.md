@@ -1,2 +1,2 @@
 # IPT
-Aries Surigao BSIT-3A
+ARIES SURIGAO BSIT-3A
